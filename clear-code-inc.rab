@@ -1,0 +1,30 @@
+= 株式会社クリアコード
+
+: author
+   須藤功平
+: content-source
+   関西Ruby会議2017
+: date
+   2017-05-27
+: allotted-time
+   60m
+: theme
+   clear-code
+
+= テーマ
+
+コミュニティー\n
+と\n
+ビジネス
+
+= 題材
+
+  # image
+  # src = images/clear-code.svg
+  # relative_width = 100
+  # reflect_ratio = 0.5
+
+== スライドプロパティー
+
+: enable-title-on-image
+   false

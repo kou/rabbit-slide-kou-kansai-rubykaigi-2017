@@ -1,0 +1,22 @@
+---
+id: kansai-rubykaigi-2017
+base_name: clear-code-inc
+tags:
+- rabbit
+- clear_code
+presentation_date: 2017-05-27
+version: 2017.5.27.0
+licenses:
+- CC-BY-SA-4.0
+slideshare_id: 
+speaker_deck_id: 
+ustream_id: 
+vimeo_id: 
+youtube_id: 
+author:
+  markup_language: :rd
+  name: 須藤功平
+  email: kou@clear-code.com
+  rubygems_user: kou
+  slideshare_user: kou
+  speaker_deck_user: 
